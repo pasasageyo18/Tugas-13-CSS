@@ -1,0 +1,27 @@
+.satu {
+  margin: 20px 0 0 60px;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border: solid;
+  border-image-source: url(hearts.png);
+  border-image-width: 12px;
+  border-image-repeat: round;
+  border-image-slice: 20 22;
+  border-image-outset: 12px;
+  box-shadow: 16px 16px black;
+}
+
+.dua {
+  margin: 20px 0 0 60px;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: solid;
+  border-image-source: url(border1.png);
+  border-image-width: 12px;
+  border-image-repeat: round;
+  border-image-slice: 30;
+  border-image-outset: 12px;
+  box-shadow: 6px 6px 20px black;
+}
